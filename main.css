@@ -1,0 +1,50 @@
+<style>
+  #main{
+    background-image: linear-gradient(
+      115deg,
+      rgba(58, 58, 158, 0.8),
+      rgba(136, 136, 206, 0.7)
+    ),
+    url(https://api.time.com/wp-content/uploads/2018/11/freddie-mercury.jpg?w=600&quality=85);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  h1{
+    font-size: 90px;
+    text-align: center;
+  }
+  #img-div{
+    background-color: black;
+    width: 100%;
+  }
+  #image {
+    width: 50%;
+    height: auto;
+    max-width: 625px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+  }
+  #img-caption{
+    font-size: 20px;
+    color: white;
+  }
+  h2{
+    font-size: 35px;
+  }
+  li{
+    font-size: 25px;
+    }
+  footer{
+    font-size:12px;
+  }
+  body{
+  color: gold;
+  font-family: georgia;
+  }
+  a{
+  color: #ADEFD1FF;
+}
+
+</style>
