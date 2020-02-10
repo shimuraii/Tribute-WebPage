@@ -1,9 +1,6 @@
 <style>
   #main{
-    background-image: url(https://api.time.com/wp-content/uploads/2018/11/freddie-mercury.jpg?w=600&quality=85);
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
+    background-color: rgba(136, 136, 206, 0.7);
   }
   h1{
     font-size: 90px;
